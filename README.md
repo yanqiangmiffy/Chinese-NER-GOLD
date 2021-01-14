@@ -7,6 +7,8 @@
 - [ThunderingII/nlp_ner 数据集](https://github.com/ThunderingII/nlp_ner/tree/master/data)
 - [jiangnanboy/albert_lstm_crf_ner 数据集](https://github.com/jiangnanboy/albert_lstm_crf_ner/tree/master/data/ner_data)
 - [yanwii/ChineseNER 数据集](https://github.com/yanwii/ChineseNER/tree/master/data)
+- [Moon-xm/HMM_NER 数据集](https://github.com/Moon-xm/HMM_NER/tree/master/corpus)
+- [TahoeWang/bert_based_sequence_labelling 人名数据集](https://github.com/TahoeWang/bert_based_sequence_labelling)
 
 ## 更多资料
 - [CLUEbenchmark/CLUENER2020](https://github.com/CLUEbenchmark/CLUENER2020)
